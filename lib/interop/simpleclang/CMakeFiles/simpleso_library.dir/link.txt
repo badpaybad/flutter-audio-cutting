@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libsimpleso.so.1 -o libsimpleso.so.1.0.0 CMakeFiles/simpleso_library.dir/simpleso.c.o 

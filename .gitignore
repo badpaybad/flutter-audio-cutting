@@ -1,0 +1,8 @@
+**/build
+/pubspec.lock
+.dart_tool
+**/.dart_tool
+.idea
+**/.idea
+.vscode
+**/.vscode

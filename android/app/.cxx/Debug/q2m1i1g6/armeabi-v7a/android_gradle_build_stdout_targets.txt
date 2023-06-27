@@ -1,0 +1,2 @@
+ninja: Entering directory `/work/flutter-audio-cutting/android/app/.cxx/Debug/q2m1i1g6/armeabi-v7a'
+ninja: no work to do.

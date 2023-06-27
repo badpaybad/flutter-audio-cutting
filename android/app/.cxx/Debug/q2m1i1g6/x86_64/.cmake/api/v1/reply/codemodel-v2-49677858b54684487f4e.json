@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hello_library",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_library::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_library-Debug-127d251978732dcdeefe.json",
+					"name" : "hello_library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_test-Debug-28648e53aa18b2a836f2.json",
+					"name" : "hello_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/work/flutter-audio-cutting/android/app/.cxx/Debug/q2m1i1g6/x86_64",
+		"source" : "/work/flutter-audio-cutting/lib/interop/helloclang"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

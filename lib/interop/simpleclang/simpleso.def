@@ -1,0 +1,4 @@
+LIBRARY   simpleso
+EXPORTS
+   hello_world
+   sum

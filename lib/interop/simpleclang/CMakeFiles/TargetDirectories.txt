@@ -1,0 +1,4 @@
+/work/flutter-audio-cutting/lib/interop/simpleclang/CMakeFiles/simpleso_library.dir
+/work/flutter-audio-cutting/lib/interop/simpleclang/CMakeFiles/simpleso_exe.dir
+/work/flutter-audio-cutting/lib/interop/simpleclang/CMakeFiles/edit_cache.dir
+/work/flutter-audio-cutting/lib/interop/simpleclang/CMakeFiles/rebuild_cache.dir
