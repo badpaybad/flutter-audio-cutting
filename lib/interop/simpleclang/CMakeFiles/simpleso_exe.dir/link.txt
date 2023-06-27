@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/simpleso_exe.dir/simpleso.c.o -o simpleso_exe 
